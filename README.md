@@ -90,5 +90,6 @@ The workflow is executed with example questions, routing and fetching the releva
 ### 12. Visualization and Final Outputs
 The code displays the graph with Mermaid and prints the final documents, depending on whether the search was routed to Wikipedia or the vector store.
 
-![Alt text]("./langgraph image.png")
+![Alt text](./langgraph%20image.png)
+
 
